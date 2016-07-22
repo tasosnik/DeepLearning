@@ -1,1 +1,4 @@
 *.pickle
+.ipynb_checkpoints/2_fullyconnected-checkpoint.ipynb
+.ipynb_checkpoints/3_regularization-checkpoint.ipynb
+.ipynb_checkpoints/4_convolutions-checkpoint.ipynb
